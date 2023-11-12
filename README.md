@@ -1,4 +1,4 @@
-# PGML flow field prediction
+# PGML for flow field prediction
 
 This repo presents a physics-guided machine learning (PGML) framework for in-cylinder engine flow field prediction from the work  *"Swirl-induced Motion Prediction with Physics-guided Machine Learning Framework Utilizing Spatio-temporal Flow Field Structure"* (Under Review). It is empowered by AutoGluon v0.8.2 and realized in Python. This proposed physics-guided machine learning framework is capable to deal with extremely complicated in-cylinder flow field with very high prediction accuracy, suggesting the idea that a better incorporation between spatial and temporal information could work well on simple machine learning models compared with large, complicated deep neural networks. 
 
