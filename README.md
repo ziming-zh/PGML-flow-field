@@ -91,17 +91,14 @@ The result of Cycle 70, 80, 90 for three swirl ratio conditions are published. E
 
 Note: The red vectors come from prediction and green vectors come from experiments.
 
-Examples:
+## Citation
+
+Zhou, Z., Zhao, F. and Hung, D. (2024), "Swirl-induced motion prediction with physics-guided machine learning utilizing spatiotemporal flow field structure", International Journal of Numerical Methods for Heat & Fluid Flow, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/HFF-07-2023-0358
+
+## Examples
 
 ./result/sr_C6_01/Cycle-090/-260CAD_ATDC/SI/2.png
 ![SI](https://github.com/ziming-zh/SIMPLI-field/blob/main/result/sr_C6_01/Cycle-090/-260CAD_ATDC/SI/2.png?raw=true)
-
-
-## Citation
-
-```
-Zhou, Z., Zhao, F. and Hung, D. (2024), "Swirl-induced motion prediction with physics-guided machine learning utilizing spatiotemporal flow field structure", International Journal of Numerical Methods for Heat & Fluid Flow, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/HFF-07-2023-0358
-```
 
 
 ./result/sr_C6_01/Cycle-090/-260CAD_ATDC/MI/2.png
