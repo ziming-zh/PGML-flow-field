@@ -1,6 +1,6 @@
 # PGML for flow field prediction
 
-This repo presents a physics-guided machine learning (PGML) framework for in-cylinder engine flow field prediction from the work  *"Swirl-induced Motion Prediction with Physics-guided Machine Learning Framework Utilizing Spatio-temporal Flow Field Structure"* (Under Review). It is empowered by AutoGluon v0.8.2 and realized in Python. This proposed physics-guided machine learning framework is capable to deal with extremely complicated in-cylinder flow field with very high prediction accuracy, suggesting the idea that a better incorporation between spatial and temporal information could work well on simple machine learning models compared with large, complicated deep neural networks. 
+This repo presents a physics-guided machine learning (PGML) framework for in-cylinder engine flow field prediction from the work  *"Swirl-induced Motion Prediction with Physics-guided Machine Learning Framework Utilizing Spatio-temporal Flow Field Structure"* (Published at *International Jounral of Numerical Methods for Heat & Fluid Flow*). It is empowered by AutoGluon v0.8.2 and realized in Python. This proposed physics-guided machine learning framework is capable to deal with extremely complicated in-cylinder flow field with very high prediction accuracy, suggesting the idea that a better incorporation between spatial and temporal information could work well on simple machine learning models compared with large, complicated deep neural networks. 
 
 The source code for ML our model training, prediction, and distillation is published in this GitHub repo. If you are interested to further expand our idea on other flow dataset, please cite our coming paper. 
 License: GNU General Public License v3.0
@@ -95,6 +95,13 @@ Examples:
 
 ./result/sr_C6_01/Cycle-090/-260CAD_ATDC/SI/2.png
 ![SI](https://github.com/ziming-zh/SIMPLI-field/blob/main/result/sr_C6_01/Cycle-090/-260CAD_ATDC/SI/2.png?raw=true)
+
+## Citation
+
+```
+Zhou, Z., Zhao, F. and Hung, D. (2024), "Swirl-induced motion prediction with physics-guided machine learning utilizing spatiotemporal flow field structure", International Journal of Numerical Methods for Heat & Fluid Flow, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/HFF-07-2023-0358
+```
+
 
 ./result/sr_C6_01/Cycle-090/-260CAD_ATDC/MI/2.png
 ![MI](https://github.com/ziming-zh/SIMPLI-field/blob/main/result/sr_C6_01/Cycle-090/-260CAD_ATDC/MI/2.png?raw=true)
